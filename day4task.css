@@ -34,14 +34,14 @@
   position: absolute;
   z-index: 2;
   right: 10rem;
-  bottom: 14rem;
+  bottom: 12.5rem;
 }
 #img7 {
   float: right;
   position: absolute;
   z-index: 3;
   right: 10rem;
-  bottom: -2px;
+  bottom: -4px;
 }
 /* img {
   width: 300px;
